@@ -6,6 +6,8 @@ Text Summarization is a technique that summarizes a long a piece of content with
 Here, we classify the text data provided by millions of users around the globe into classes like positive, negative and neutral, also on emotions and the intentions of the users towards a particular product available online. We use a text summarization technique called sentinent analysis.
 
 IMPLEMENTATION
+
+
 The data was first cleaned and pre-processed. The entire dataset was then divided into training and testing data.
 LSTM is an artificial recurrent neural network (RNN) architecture used for capturing long-term dependencies. Bidirectional GRU's are a type of bidirectional recurrent neural networks with only the input and forget gates. It allows for the use of information from both previous time steps and later time steps to make predictions about the current state. The pre-process data is fed into the LSTM model with Bi-GRU.
 
