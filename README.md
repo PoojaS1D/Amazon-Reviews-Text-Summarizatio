@@ -5,6 +5,12 @@ Consumers buy products from online based on the reviews provided by fellow custo
 Text Summarization is a technique that summarizes a long a piece of content with important points outlined that gives an idea of the entire content.
 Here, we classify the text data provided by millions of users around the globe into classes like positive, negative and neutral, also on emotions and the intentions of the users towards a particular product available online. We use a text summarization technique called sentinent analysis.
 
+The dataset I have used for this project is taken from Kaggle- "Amazon Reviews for Sentiment Analysis"
+and the link for the dataset is 
+https://www.kaggle.com/bittlingmayer/amazonreviews
+
+
+
 IMPLEMENTATION
 
 
